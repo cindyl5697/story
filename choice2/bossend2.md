@@ -1,4 +1,4 @@
 ## You're ready to be fired!
 ---
-[Go Back](bossend1.md)
+[Go Back](boss.md)
 [Start Over](../home.md)
