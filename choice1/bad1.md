@@ -2,7 +2,7 @@
 ## But you are happy that you got to spend time with friends
 ---
 Select a next step:
-### [Your Job?](badend.md)
+### [Your Job?](badend1.md)
 ### [Your Friends?](badend2.md)
 ---
 [Go Back](scene1.md)
